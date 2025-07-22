@@ -15,7 +15,7 @@ Welcome to **Drink of the Day**, your perfect companion for discovering new cock
 
 ## 🧪 Demo
 
-![App Demo](./demo.gif)
+![App Demo](./video.gif)
 
 ## 🔥 Features
 
