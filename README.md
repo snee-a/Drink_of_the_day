@@ -17,6 +17,8 @@ Welcome to **Drink of the Day**, your perfect companion for discovering new cock
 
 ![App Demo](./video.gif)
 
+---
+
 ## 🔥 Features
 
 - 🔍 **Smart Ingredient Search** – Enter one or more ingredients and get matching drinks
@@ -44,3 +46,21 @@ git clone https://github.com/snee-a/Drink_of_the_day.git
 cd Drink_of_the_day
 npm install
 npm run dev
+
+# Project Structure
+
+Drink_of_the_day/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── video.gif
+├── README.md
+├── package.json
+└── vite.config.js
+
+** Inspiration **
+Built as part of a React learning journey. This fun project explores real-time search, animations, API integration, and clean design – all wrapped into a delightful mini app.
+
+
