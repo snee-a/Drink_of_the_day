@@ -1,12 +1,46 @@
-# React + Vite
+# 🍹 Drink of the Day
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**"Are you a drink lover or an adventurous sipper who loves to try something new every day?"**  
+Then **this app is made just for you!**
 
-Currently, two official plugins are available:
+Welcome to **Drink of the Day**, your perfect companion for discovering new cocktails based on ingredients you already have. Whether you're in the mood for something classy or something wild – just type your ingredients, and *voilà!* 🍸🍋✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [Click here to try it out!](https://snee-a.github.io/Drink_of_the_day/)
+
+---
+
+## 🧪 Demo
+
+![App Demo](./demo.gif)
+
+## 🔥 Features
+
+- 🔍 **Smart Ingredient Search** – Enter one or more ingredients and get matching drinks
+- 🍸 **Drink Details** – Name, instructions, and a beautiful image for every drink
+- 💥 **Smooth Animations** – Powered by Framer Motion for an engaging user experience
+- 💻 **Fully Responsive** – Works beautifully on mobile and desktop
+- 🎨 **Clean Design** – Minimalist layout with modern UI
+
+---
+
+## ⚙️ Tech Stack
+
+- **React 19**
+- **Vite**
+- **Framer Motion**
+- **TheCocktailDB API**
+- **GitHub Pages** for deployment
+
+---
+
+## 🛠️ How to Run Locally
+
+```bash
+git clone https://github.com/snee-a/Drink_of_the_day.git
+cd Drink_of_the_day
+npm install
+npm run dev
